@@ -1,1 +1,1 @@
-# All the Java Data Structures and Algorithms programs go here.
+# Just some random programs on Data Structures and Algorithms

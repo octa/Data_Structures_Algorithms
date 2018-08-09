@@ -2,6 +2,7 @@
 
 """
 
+Author: Octa
 Program that implements Bubble Sort to sort a list of integers.
 
 """

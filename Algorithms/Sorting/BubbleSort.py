@@ -19,7 +19,7 @@ def bubbleSort(list):
                 list[j]=list[j+1]
                 list[j+1]=temp
                 swapped=True
-        #print "\n---------------"
+        #print "\n----------------"
         if not swapped:
             break
     return list
